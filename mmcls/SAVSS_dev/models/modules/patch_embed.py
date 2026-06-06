@@ -1,7 +1,4 @@
-'''
-Author: Chenhongyi Yang
-Reference: https://github.com/OliverRensu/Shunted-Transformer
-'''
+
 import torch
 from mmcv.cnn.bricks.transformer import AdaptivePadding
 from mmcv.cnn import (build_conv_layer, build_norm_layer)

@@ -1,8 +1,3 @@
-'''
-Author: Hui Liu
-Github: https://github.com/Karl1109
-Email: liuhui@ieee.org
-'''
 
 from typing import Sequence
 import copy

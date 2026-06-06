@@ -1,4 +1,4 @@
-# Author: Yahui Liu <yahui.liu@unitn.it>
+
 
 import torch
 import cv2

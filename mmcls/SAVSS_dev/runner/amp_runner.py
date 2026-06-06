@@ -1,6 +1,4 @@
-'''
-Author: Chenhongyi Yang
-'''
+
 import copy
 import time
 from typing import Any, Dict, List, Optional, Tuple
